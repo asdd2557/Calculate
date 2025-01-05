@@ -1,6 +1,6 @@
 package org.example.resource;
 
-public interface Calculrate_Interface {
+public interface CalculrateInterface {
     int Event(int a, int b);
 
 }

@@ -1,9 +1,11 @@
 package org.example.resource;
+
 import lombok.Getter;
 import lombok.Setter;
+
 @Getter
 @Setter
-public class Calculrate_Resource_Impl {
+public class CalculrateResourceImpl {
     private int num1;
 
     private int num2;
